@@ -20,7 +20,7 @@ global.available = false //status online (online)
 // Other
 global.botname = "SOLID BOTོ" //namabot kalian
 global.ownername= "ᴹᴿ᭄ SOLID-MDོ ×፝֟͜×" //nama kalian
-global.my number ="wa.me/6283175691841/" //bebas asal jan hapus
+global.myweb ="wa.me/6283175691841/" //bebas asal jan hapus
 global.youtube = "https://youtube.com/channel/UCcRnxMY3iRz8LJMtpKq1ZQw" //bebas asal jan hapus
 global.github = "https://zeeone-ofc.github.io/" //bebas
 global.email = "pakteh.star.com" //bebas
