@@ -88,7 +88,14 @@ exports.menunya = (salam, pushname, botname) =>{
 	return`Hai kak ${pushname} 👋 selamat ${salam} , 
 saya ${botname}, bot ini adalah Beta Multi-Device Whatsapp. 
 Jika kamu menemukan semacam bug atau kesalahan mohon dimaklumi dulu ya, 
-lapor owner agar segera di perbaiki 🙏      
+lapor owner agar segera di perbaiki Silahkan ketik .menu untuk mengakses
+
+•~~~~ Nama Bot: Solid
+•~~~~ YouTube : SOLID_GAMES
+•~~~~ Info Bot : Baileys Multi Device
+•~~~~ Nama Owner : Solid
+•~~~~ Number Phone : 6283175691841
+     
 `
 }
 exports.listMenu = (time, salam, pushname, prefix) => {
