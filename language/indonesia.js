@@ -92,7 +92,7 @@ lapor owner agar segera di perbaiki Silahkan ketik .menu untuk mengakses
 
 •~~~~ Nama Bot: Solid
 •~~~~ YouTube : SOLID_GAMES
-•~~~~ Info Bot : Baileys Multi Device
+•~~~~ Info Bot : Baileys MD
 •~~~~ Nama Owner : Solid
 •~~~~ Number Phone : 6283175691841
      
